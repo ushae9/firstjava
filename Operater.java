@@ -54,20 +54,3 @@ class Operater
  System.out.println("Maximumis = "+max);
    }
 }
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-  
